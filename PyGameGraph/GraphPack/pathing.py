@@ -24,7 +24,9 @@ def get_path(path_type):
 
 
 def get_random_path(start, end):
+    # add an appropriate assert for a precondition here
     pass
+    # add an appropriate assert for a postcondition here
 
 def get_dfs_path(start, end):
     pass
